@@ -1,12 +1,12 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👨🏽‍💻 -  Eu me chamo [Lauana Cristiny](https://www.linkedin.com/in/lauana-cristiny/);
-- 💜 - Atualmente sou Tech Recruiter da [Lovel](https://www.linkedin.com/company/lovel-dev/);
-- 🦄 - Somos uma Startup que contrata os melhores talentos techs para empresas referência de mercado;
+- 💜 - Atualmente sou Tech Recruiter da [Lovel](https://www.linkedin.com/company/lovel-dev/) e da [Conecta Capital](https://www.linkedin.com/company/conectacapitalhumanojoinville/);
+- 🦄 - Meu objetivo é otimizar processos e potencializar as contratações do mundo tech;
 - 💸 - Constantemente temos vagas para:
-- - **Frontend**: NextJs + ReactJ + ChakraUI + TypeScript;
-- - **Backend**: NestJs + PrismaIO + PostgreSQL;
-- - Se alguma fez sentido pra você, [entre em contato conosco](https://www.linkedin.com/company/querywork).
+- - **Frontend**: NextJs + ReactJ + Javascript + TypeScript;
+- - **Backend**: NestJs + Java + .Net + C#;
+- - Se alguma fez sentido pra você, [entre em contato comigo](https://www.linkedin.com/in/lauana-cristiny/).
 
 ##
 
@@ -31,15 +31,9 @@
   
  
 <div> 
-  <a href="https://www.youtube.com/channel/UCywV9Q7gvVNi-6bAJRomLPQ" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
-  </a>
+
   
-  <a href="https://instagram.com/paulopelaez" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <a href="https://discord.gg/paulopelaez" target="_blank">
+  <a href="https://discord.gg/lauanacristiny" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
   
