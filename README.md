@@ -1,11 +1,12 @@
 # Fala Dev!! Tudo beleza ?
 
 - 👨🏽‍💻 -  Eu me chamo [Lauana Cristiny](https://www.linkedin.com/in/lauana-cristiny/);
-- 💜 - Atualmente sou Tech Recruiter da [Lovel](https://www.linkedin.com/company/lovel-dev/) e da [Conecta Capital](https://www.linkedin.com/company/conectacapitalhumanojoinville/);
+- 💜 - Atualmente sou Tech Recruiter da [RedPill RH](https://redpillrh.com.br/);
 - 🦄 - Meu objetivo é otimizar processos e potencializar as contratações do mundo tech;
 - 💸 - Constantemente temos vagas para:
 - - **Frontend**: NextJs + ReactJ + Javascript + TypeScript;
-- - **Backend**: NestJs + Java + .Net + C#;
+- - **Backend**: Java + .Net + C#;
+- - **Além de vagas estratégicas;
 - - Se alguma fez sentido pra você, [entre em contato comigo](https://www.linkedin.com/in/lauana-cristiny/).
 
 ##
